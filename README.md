@@ -6,14 +6,14 @@ This project lets users paste a Spotify playlist URL into a visually branded GUI
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎨 GUI styled with Spotify's theme (Tkinter + Pillow)
-- 🔗 Paste Spotify playlist URL directly
-- 🔍 Fetches tracks automatically via Spotipy (Spotify API)
-- 🧠 Uses OpenAI GPT to generate personality insights
-- 📋 Displays full analysis in-app
-- 🔐 Uses `.env` file to securely load API keys
+- GUI styled with Spotify's theme (Tkinter + Pillow)
+- Paste Spotify playlist URL directly
+- Fetches tracks automatically via Spotipy (Spotify API)
+- Uses OpenAI GPT to generate personality insights
+- Displays full analysis in-app
+- Uses `.env` file to securely load API keys
 
 ---
 
